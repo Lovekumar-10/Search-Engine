@@ -1,5 +1,17 @@
-# Node & environment
+# Node dependencies
 node_modules/
+
+# Build output
+Client/build/
+Server/dist/
+
+# Environment variables
 .env
+Client/.env
 Server/.env
-build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
