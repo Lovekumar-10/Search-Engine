@@ -1,0 +1,188 @@
+{
+  "tabs.newTab1": "Nueva pestaña",
+  "searchBar.placeholder": "Buscar o introducir URL",
+  "searchInput.placeholder": "Buscar en la web",
+  
+
+  "profileCard.name": "Invitado",
+  "profileCard.SignIn": "No has iniciado sesión",
+  "profileCard.SignOut": "Cerrar sesión",
+  "profileCard.manage": "Gestiona tu cuenta",
+  "profileCard.LoginWith1": "Continuar con Google",
+  "profileCard.LoginWith2": "Continuar con GitHub",
+
+
+
+  "greeting.text1": "Buenos días",
+  "greeting.text2": "Buenas tardes",
+  "greeting.text3": "Buenas noches",
+  "greeting.text4": "Buenas noches",
+
+  
+
+
+  "status.listening": "Escuchando...",
+  "button.customize": "Personalizar",
+  "home.widgets": "Widgets",
+  "home.imgaes": "Imágenes aleatorias",
+  "home.TimeDate": "Hora",
+  "home.weather": "Fecha/Clima",
+  "home.widgets.bg": "Fondo",
+  "home.widgets.btn": "Imagen personalizada",
+
+  
+  "settings.title":"Ajustes",
+  "settings.history": "Historial",
+  "settings.language": "Idiomas",
+  "settings.downloads": "Descargas",
+  "settings.appearance": "Apariencia",
+  "settings.profile": "Perfil",
+
+
+  "menu.newTab": "Nueva pestaña",
+  "menu.newWindow": "Nueva ventana",
+  "menu.newIncognito": "Nueva ventana de incógnito",
+  "menu.history": "Historial",
+  "menu.downloads": "Descargas",
+  "menu.print": "Imprimir...",
+  "menu.zoom": "Zoom",
+  "menu.dayNight": "Modo día/noche",
+  "menu.profile": "Sección de perfil",
+  "menu.language": "Idiomas",
+  "menu.upcoming2": "Próxima función 2...",
+  "menu.about": "Sobre nosotros",
+  "menu.settings": "Ajustes",
+  "menu.close": "Cerrar buscador",
+
+
+
+
+"about.hero.title": "Acerca de Nuestro Motor de Búsqueda",
+"about.hero.subtitle": "Resultados rápidos, personalizados y confiables en la Web, YouTube y Noticias",
+"about.hero.btn": "Más información",
+
+"about.features.title": "Características",
+"about.features.timeline1": "Resultados Unificados",
+"about.features.headline1": "Búsqueda Multifuente",
+"about.features.title1": "Obtén resultados de la Web, Videos y Noticias en un solo lugar.",
+
+"about.features.timeline2": "Sugerencias Inteligentes",
+"about.features.headline2": "Búsquedas Recientes",
+"about.features.title2": "Acceso rápido a tus últimas búsquedas para mayor eficiencia.",
+
+"about.features.timeline3": "Personalizado",
+"about.features.headline3": "Resultados Personalizados",
+"about.features.title3": "Función futura: búsquedas adaptadas para usuarios registrados.",
+
+"about.features.timeline4": "Ultrarrápido",
+"about.features.headline4": "Interfaz Rápida y Limpia",
+"about.features.title4": "Una interfaz simple, receptiva y fácil de usar.",
+
+"about.founder.title": "Acerca del Fundador",
+"about.founder.para1": "Nuestro fundador <strong>Sr. Love Kumar</strong> es un <strong>visionario</strong> que cree en la simplicidad,<br /> la velocidad y la innovación. Con un profundo conocimiento de la tecnología y una<br /> pasión por crear plataformas, imaginó una herramienta que hace que la búsqueda sea<br /> más inteligente, rápida y personalizada. Guiado por la creatividad y la dedicación,<br /> la misión del fundador siempre ha sido cerrar la brecha entre la información compleja<br /> y el acceso fácil para todos.",
+"about.founder.para2": "Basado en esta visión, nuestro motor de búsqueda combina resultados web, de video<br /> y de noticias en una sola plataforma unificada. Está diseñado para ahorrar tiempo a los usuarios<br /> y ofrecer los resultados más relevantes de manera eficiente.<br /> Con funciones como análisis impulsados por IA, sugerencias personalizadas<br /> y una interfaz limpia e intuitiva, la plataforma busca transformar<br /> la forma en que las personas exploran, aprenden y descubren información en línea.",
+
+"about.faq.title": "Preguntas Frecuentes",
+"about.faq.question1": "¿En qué se diferencia este motor de búsqueda de Google o Bing?",
+"about.faq.answer1": "Nuestro motor de búsqueda se inspira en plataformas populares pero va más allá. Reúne resultados de la web, videos y noticias en un solo lugar, con un modo de IA para obtener información más profunda. A diferencia de los motores tradicionales, se enfoca en la simplicidad, la personalización y en mantener todas tus búsquedas en una sola página.",
+
+"about.faq.question2": "¿Qué características únicas hacen destacar a tu motor de búsqueda?",
+"about.faq.answer2": "Nuestra plataforma va más allá de la búsqueda de texto. Puedes usar voz a texto con micrófono, explorar resultados en varios idiomas y activar el Modo IA con un asistente de chat interactivo que explica, resume o profundiza como un guía personal.",
+
+"about.faq.question3": "¿Se guardarán mis búsquedas anteriores?",
+"about.faq.answer3": "Las búsquedas recientes se almacenan localmente en tu dispositivo para facilitar el acceso. Nada se sube a nuestros servidores sin tu consentimiento.",
+
+"about.faq.question4": "¿Este motor es más rápido que usar varias plataformas?",
+"about.faq.answer4": "¡Sí! Al unificar los resultados, pasas menos tiempo navegando entre apps o sitios, lo que hace que la experiencia sea más rápida y fluida.",
+
+"about.faq.question5": "¿Puedo personalizar mis resultados?",
+"about.faq.answer5": "En el futuro, los usuarios registrados podrán recibir resultados personalizados según sus preferencias e historial.",
+
+"about.faq.question6": "¿Funciona en dispositivos móviles?",
+"about.faq.answer6": "Por supuesto. La plataforma está completamente optimizada para móviles, tabletas y ordenadores.",
+
+"about.faq.question7": "¿Está protegida mi privacidad?",
+"about.faq.answer7": "Priorizamos la privacidad minimizando el rastreo y evitando la recopilación innecesaria de datos. Tus búsquedas son privadas.",
+
+"about.faq.question8": "¿Qué funciones futuras están previstas?",
+"about.faq.answer8": "Planeamos funciones como sesiones de búsqueda colaborativas, paneles de conocimiento generados por IA, resultados contextuales y sincronización inteligente entre plataformas. Queremos que la búsqueda sea una experiencia interactiva y personalizada.",
+
+"footer.title": "Impulsado por Love Kumar ❤️",
+"footer.link1": "Privacidad",
+"footer.link2": "Comentarios",
+"footer.link3": "Ayuda",
+
+
+
+
+
+
+"historypage.subtitle": "Seleccionado",
+"historypage.btn1": "Eliminar",
+"historypage.btn2": "Cancelar",
+"historypage.textfield": "Buscar en el historial...",
+"historypage.empty.title": "No se encontró historial.",
+"historypage.bottombtn": "Borrar todo el historial",
+
+
+
+
+"searchTab.labelName1": "Modo IA",
+"searchTab.labelName2": "Todo",
+"searchTab.labelName3": "Imágenes",
+"searchTab.labelName4": "Videos",
+"searchTab.labelName5": "Noticias",
+
+
+
+
+"ResultShowing.title1": "Mostrando <b>{{count}}</b> resultados para <b>{{query}}</b>",
+"ResultShowing.subtitle1": "No se encontraron resultados.",
+"ResultShowing.btn1": "Cargar más",
+"ResultShowing.loading1": "Cargando...",
+
+"ResultShowing.title2": "Mostrando <b>{{count}}</b> imágenes para <b>{{query}}</b>",
+"ResultShowing.subtitle2": "No se encontraron imágenes.",
+"ResultShowing.btn2": "Cargar más",
+"ResultShowing.loading2": "Cargando...",
+
+"ResultShowing.title3": "Mostrando <b>{{count}}</b> videos para <b>{{query}}</b>",
+"ResultShowing.subtitle3": "No se encontraron videos.",
+"ResultShowing.btn3": "Cargar más",
+"ResultShowing.loading3": "Cargando...",
+
+"ResultShowing.title4": "Mostrando <b>{{count}}</b> noticias para <b>{{query}}</b>",
+"ResultShowing.subtitle4": "No se encontraron noticias.",
+"ResultShowing.btn4": "Cargar más",
+"ResultShowing.loading4": "Cargando...",
+
+
+"AIMode.WelcomeNote": "¡Bienvenido! Pregúntame lo que quieras.",
+"AIMode.Error.Message": "Lo siento, algo salió mal con el servicio de chat.",
+"AIMode.chatinput.text": "Pregunta lo que sea...",
+"AIMode.text": "Tú",
+"AIMode.Listtext1": "Agregar nuevo chat",
+"AIMode.Listtext2": "Subir imagen",
+"AIMode.Listtext3": "Subir PDF",
+"AIMode.Summary.title": "Resumen de uso diario",
+"AIMode.Summary.details1": "Mensajes usados:",
+"AIMode.Summary.details2": "Tokens usados:",
+"AIMode.reset.available": "¡Disponible ahora!",
+"AIMode.reset.time": "Se reinicia en: {{time}}",
+"AIMode.common.loading": "Cargando...",
+
+
+
+
+"AISummary.overview.title": "◆ Resumen de IA",
+"AISummary.Btn1": "Traducir",
+"AISummary.Pause.Btn": "Pausar",
+"AISummary.Listen.Btn": "Escuchar",
+"AISummary.Btn2": "Mostrar más",
+"AISummary.Btn3": "Profundizar en AIMode",
+"AISummary.bottom.text": "Las respuestas de IA pueden contener errores"
+
+
+
+
+}

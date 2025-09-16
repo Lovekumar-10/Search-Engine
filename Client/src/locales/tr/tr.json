@@ -1,0 +1,209 @@
+{
+  "tabs.newTab1": "Yeni Sekme",
+  "searchBar.placeholder": "Ara veya URL girin",
+  "searchInput.placeholder": "Web'de ara",
+
+
+
+
+
+
+  
+  "profileCard.name": "Misafir",
+  "profileCard.SignIn": "Giriş yapılmadı",
+  "profileCard.SignOut": "Çıkış Yap",
+  "profileCard.manage": "Hesabınızı yönetin",
+  "profileCard.LoginWith1": "Google ile devam et",
+  "profileCard.LoginWith2": "GitHub ile devam et",
+
+
+
+
+
+  "greeting.text1": "Günaydın",
+  "greeting.text2": "İyi öğleden sonra",
+  "greeting.text3": "İyi akşamlar",
+  "greeting.text4": "İyi geceler",
+
+
+
+
+
+
+  "status.listening": "Dinleniyor...",
+  "button.customize": "Özelleştir",
+  "home.widgets": "Widget'lar",
+  "home.imgaes": "Rastgele Görseller",
+  "home.TimeDate": "Saat",
+  "home.weather": "Tarih/Hava Durumu",
+  "home.widgets.bg": "Arka Plan",
+  "home.widgets.btn": "Özel Görsel",
+
+
+
+
+
+
+
+  "settings.title": "Ayarlar",
+  "settings.history": "Geçmiş",
+  "settings.language": "Diller",
+  "settings.downloads": "İndirilenler",
+  "settings.appearance": "Görünüm",
+  "settings.profile": "Profil",
+
+
+
+
+
+
+  "menu.newTab": "Yeni sekme",
+  "menu.newWindow": "Yeni pencere",
+  "menu.newIncognito": "Yeni gizli pencere",
+  "menu.history": "Geçmiş",
+  "menu.downloads": "İndirilenler",
+  "menu.print": "Yazdır...",
+  "menu.zoom": "Yakınlaştır",
+  "menu.dayNight": "Gündüz/Gece Modu",
+  "menu.profile": "Profil bölümü",
+  "menu.language": "Diller",
+  "menu.upcoming2": "Yakında gelecek özellik 1...",
+  "menu.about": "Hakkımızda",
+  "menu.settings": "Ayarlar",
+  "menu.close": "Arama motorunu kapat",
+
+
+
+
+
+
+
+"about.hero.title": "Arama Motorumuz Hakkında",
+"about.hero.subtitle": "Web, YouTube ve Haberlerde hızlı, kişiselleştirilmiş ve güvenilir arama sonuçları",
+"about.hero.btn": "Daha Fazla Bilgi",
+
+"about.features.title": "Özellikler",
+"about.features.timeline1": "Birleşik Sonuçlar",
+"about.features.headline1": "Çok Kaynaklı Arama",
+"about.features.title1": "Web, Videolar ve Haberlerden sonuçları tek bir yerde alın.",
+
+"about.features.timeline2": "Akıllı Öneriler",
+"about.features.headline2": "Son Aramalar",
+"about.features.title2": "Verimlilik için son aramalarınıza hızlı erişim.",
+
+"about.features.timeline3": "Kişiselleştirilmiş",
+"about.features.headline3": "Kişiselleştirilmiş Sonuçlar",
+"about.features.title3": "Gelecek özellik: giriş yapan kullanıcılar için özel aramalar.",
+
+"about.features.timeline4": "Şimşek Hızında",
+"about.features.headline4": "Hızlı ve Temiz Arayüz",
+"about.features.title4": "Basit, duyarlı ve kullanımı kolay bir arayüz.",
+
+"about.founder.title": "Kurucu Hakkında",
+"about.founder.para1": "Kurucumuz <strong>Bay Love Kumar</strong>, sadelik,<br /> hız ve yeniliğe inanan bir <strong>vizyoner</strong>dir. Teknolojiyi derinlemesine anlayan ve<br /> platformlar yaratma tutkusuna sahip olan kurucumuz, aramayı daha akıllı,<br /> daha hızlı ve daha kişiselleştirilmiş hale getiren bir araç hayal etti. Yaratıcılık ve özveriyle yönlendirilen<br /> kurucunun misyonu, karmaşık bilgiler ile herkes için kolay erişim arasındaki boşluğu<br /> kapatmak olmuştur.",
+"about.founder.para2": "Bu vizyon üzerine inşa edilen arama motorumuz, web, video<br /> ve haber sonuçlarını tek bir birleşik platformda birleştirir. Kullanıcıların zamanını tasarruf etmek<br /> ve en alakalı sonuçları verimli bir şekilde sunmak için tasarlanmıştır.<br /> Yapay zekâ destekli analizler, kişiselleştirilmiş öneriler<br /> ve sade, sezgisel bir arayüz gibi özelliklerle, platform insanların çevrimiçi bilgiye ulaşma,<br /> öğrenme ve keşfetme şeklini dönüştürmeyi amaçlamaktadır.",
+
+"about.faq.title": "Sıkça Sorulan Sorular",
+"about.faq.question1": "Bu arama motoru Google veya Bing'den nasıl farklı?",
+"about.faq.answer1": "Arama motorumuz popüler platformlardan ilham alıyor ancak daha ileri gidiyor. Web, video ve haber sonuçlarını tek bir yerde birleştiriyor ve daha derin analizler için bir Yapay Zeka modu sunuyor. Geleneksel arama motorlarının aksine, sadelik, kişiselleştirme ve tüm arama ihtiyaçlarınızı tek bir sayfada toplama üzerine odaklanıyor.",
+
+"about.faq.question2": "Arama motorunuzu öne çıkaran benzersiz özellikler nelerdir?",
+"about.faq.answer2": "Platformumuz basit metin aramasının ötesine geçiyor. Eller serbest arama için mikrofonla sesli arama kullanabilir, birden fazla dilde sonuçları keşfedebilir ve AI Modu'na geçerek etkileşimli sohbet asistanıyla konuları açıklayabilir, özetleyebilir veya derinlemesine inceleyebilirsiniz—tıpkı kişisel bir rehber gibi.",
+
+"about.faq.question3": "Geçmiş aramalarım kaydedilecek mi?",
+"about.faq.answer3": "Son aramalar cihazınızda yerel olarak saklanır, böylece önceki sorgulara hızlıca geri dönebilirsiniz. Onayınız olmadan hiçbir veri sunucularımıza yüklenmez.",
+
+"about.faq.question4": "Bu arama motoru birden fazla platform kullanmaktan daha mı hızlı?",
+"about.faq.answer4": "Evet! Sonuçlar birleşik olduğu için farklı uygulamalar veya siteler arasında gezinmek için daha az zaman harcarsınız, bu da deneyimi daha hızlı ve akıcı hale getirir.",
+
+"about.faq.question5": "Sonuçlarımı kişiselleştirebilir miyim?",
+"about.faq.answer5": "Gelecekte, oturum açmış kullanıcılar tercihlerine ve geçmişlerine göre kişiselleştirilmiş sonuçlar alabilecekler.",
+
+"about.faq.question6": "Mobil cihazlarda çalışıyor mu?",
+"about.faq.answer6": "Kesinlikle. Platform tamamen duyarlıdır ve akıllı telefonlar, tabletler ve masaüstü cihazlar için optimize edilmiştir.",
+
+"about.faq.question7": "Gizliliğim korunuyor mu?",
+"about.faq.answer7": "Gizliliğe öncelik veriyoruz, izlemeyi en aza indiriyor ve gereksiz veri toplamaktan kaçınıyoruz. Aramalarınız size özeldir.",
+
+"about.faq.question8": "Gelecekte hangi özellikler planlanıyor?",
+"about.faq.answer8": "Gelecekte işbirlikçi arama oturumları, yapay zeka tarafından oluşturulan bilgi panelleri, bağlam farkındalığı olan sonuçlar ve daha akıllı platformlar arası senkronizasyon gibi özellikler planlıyoruz. Amacımız aramayı sadece bir araç olmaktan çıkarıp kişiselleştirilmiş, etkileşimli bir deneyime dönüştürmek.",
+
+"footer.title": "Love Kumar tarafından desteklenmektedir ❤️",
+"footer.link1": "Gizlilik",
+"footer.link2": "Geri Bildirim",
+"footer.link3": "Yardım",
+
+
+
+"historypage.subtitle": "Seçilen",
+"historypage.btn1": "Sil",
+"historypage.btn2": "İptal",
+"historypage.textfield": "Geçmişi ara...",
+"historypage.empty.title": "Geçmiş bulunamadı.",
+"historypage.bottombtn": "Tüm Geçmişi Temizle",
+
+
+
+
+
+"searchTab.labelName1": "Yapay Zeka Modu",
+"searchTab.labelName2": "Tümü",
+"searchTab.labelName3": "Görseller",
+"searchTab.labelName4": "Videolar",
+"searchTab.labelName5": "Haberler",
+
+
+
+
+
+"ResultShowing.title1": "<b>{{query}}</b> için <b>{{count}}</b> sonuç gösteriliyor",
+"ResultShowing.subtitle1": "Sonuç bulunamadı.",
+"ResultShowing.btn1": "Daha fazla yükle",
+"ResultShowing.loading1": "Yükleniyor...",
+
+"ResultShowing.title2": "<b>{{query}}</b> için <b>{{count}}</b> görsel gösteriliyor",
+"ResultShowing.subtitle2": "Görsel bulunamadı.",
+"ResultShowing.btn2": "Daha fazla yükle",
+"ResultShowing.loading2": "Yükleniyor...",
+
+"ResultShowing.title3": "<b>{{query}}</b> için <b>{{count}}</b> video gösteriliyor",
+"ResultShowing.subtitle3": "Video bulunamadı.",
+"ResultShowing.btn3": "Daha fazla yükle",
+"ResultShowing.loading3": "Yükleniyor...",
+
+"ResultShowing.title4": "<b>{{query}}</b> için <b>{{count}}</b> haber gösteriliyor",
+"ResultShowing.subtitle4": "Haber bulunamadı.",
+"ResultShowing.btn4": "Daha fazla yükle",
+"ResultShowing.loading4": "Yükleniyor...",
+
+
+
+
+
+"AIMode.WelcomeNote": "Hoş geldiniz! Bana her şeyi sorabilirsiniz.",
+"AIMode.Error.Message": "Üzgünüz, sohbet hizmetinde bir sorun oluştu.",
+"AIMode.chatinput.text": "Her şeyi sor...",
+"AIMode.text": "Sen",
+"AIMode.Listtext1": "Yeni Sohbet Ekle",
+"AIMode.Listtext2": "Görsel Yükle",
+"AIMode.Listtext3": "PDF Yükle",
+"AIMode.Summary.title": "Günlük Kullanım Özeti",
+"AIMode.Summary.details1": "Kullanılan mesajlar:",
+"AIMode.Summary.details2": "Kullanılan jetonlar:",
+"AIMode.reset.available": "Şu anda kullanılabilir!",
+"AIMode.reset.time": "Sıfırlanma süresi: {{time}}",
+"AIMode.common.loading": "Yükleniyor...",
+
+
+
+"AISummary.overview.title": "◆ Yapay Zeka Genel Bakış",
+"AISummary.Btn1": "Çevir",
+"AISummary.Pause.Btn": "Duraklat",
+"AISummary.Listen.Btn": "Dinle",
+"AISummary.Btn2": "Daha Fazla Göster",
+"AISummary.Btn3": "AIMode ile Daha Derine İn",
+"AISummary.bottom.text": "Yapay zeka yanıtları hatalar içerebilir"
+
+
+
+}

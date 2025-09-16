@@ -1,0 +1,206 @@
+{
+  "tabs.newTab1": "Nouvel onglet",
+  "searchBar.placeholder": "Rechercher ou entrer une URL",
+  "searchInput.placeholder": "Rechercher sur le web",
+
+
+
+  
+  "profileCard.name": "Invité",
+  "profileCard.SignIn": "Non connecté",
+  "profileCard.SignOut": "Se déconnecter",
+  "profileCard.manage": "Gérer votre compte",
+  "profileCard.LoginWith1": "Continuer avec Google",
+  "profileCard.LoginWith2": "Continuer avec GitHub",
+
+
+
+
+
+  "greeting.text1": "Bonjour",
+  "greeting.text2": "Bon après-midi",
+  "greeting.text3": "Bonsoir",
+  "greeting.text4": "Bonne nuit",
+
+
+
+
+
+  "status.listening": "Écoute...",
+  "button.customize": "Personnaliser",
+  "home.widgets": "Widgets",
+  "home.imgaes": "Images aléatoires",
+  "home.TimeDate": "Heure",
+  "home.weather": "Date/Météo",
+  "home.widgets.bg": "Arrière-plan",
+  "home.widgets.btn": "Image personnalisée",
+
+
+
+
+  
+  "settings.title":"Paramètres",
+  "settings.history": "Historique",
+  "settings.language": "Langues",
+  "settings.downloads": "Téléchargements",
+  "settings.appearance": "Apparence",
+  "settings.profile": "Profil",
+
+
+
+
+
+  "menu.newTab": "Nouvel onglet",
+  "menu.newWindow": "Nouvelle fenêtre",
+  "menu.newIncognito": "Nouvelle fenêtre de navigation privée",
+  "menu.history": "Historique",
+  "menu.downloads": "Téléchargements",
+  "menu.print": "Imprimer...",
+  "menu.zoom": "Zoom",
+  "menu.dayNight": "Mode jour/nuit",
+  "menu.profile": "Section profil",
+  "menu.language": "Langues",
+  "menu.upcoming2": "Fonction à venir 1...",
+  "menu.about": "À propos de nous",
+  "menu.settings": "Paramètres",
+  "menu.close": "Fermer le moteur de recherche",
+
+
+
+
+
+
+"about.hero.title": "À propos de notre moteur de recherche",
+"about.hero.subtitle": "Des résultats rapides, personnalisés et fiables sur le Web, YouTube et les actualités",
+"about.hero.btn": "En savoir plus",
+
+"about.features.title": "Fonctionnalités",
+"about.features.timeline1": "Résultats Unifiés",
+"about.features.headline1": "Recherche Multi-source",
+"about.features.title1": "Obtenez des résultats du Web, des vidéos et des actualités en un seul endroit.",
+
+"about.features.timeline2": "Suggestions Intelligentes",
+"about.features.headline2": "Recherches Récentes",
+"about.features.title2": "Accès rapide à vos dernières recherches pour plus d'efficacité.",
+
+"about.features.timeline3": "Personnalisé",
+"about.features.headline3": "Résultats Personnalisés",
+"about.features.title3": "Fonction future : recherches adaptées pour les utilisateurs connectés.",
+
+"about.features.timeline4": "Ultra Rapide",
+"about.features.headline4": "Interface Rapide et Épurée",
+"about.features.title4": "Une interface simple, réactive et facile à utiliser.",
+
+"about.founder.title": "À propos du fondateur",
+"about.founder.para1": "Notre fondateur <strong>M. Love Kumar</strong> est un <strong>visionnaire</strong> qui croit en la simplicité,<br /> la rapidité et l’innovation. Avec une compréhension approfondie de la technologie et une<br /> passion pour la création de plateformes, il a imaginé un outil qui rend la recherche<br /> plus intelligente, plus rapide et plus personnalisée. Guidé par la créativité et la dévotion,<br /> la mission du fondateur a toujours été de combler le fossé entre les informations complexes<br /> et l’accès facile pour tous.",
+"about.founder.para2": "Construit sur cette vision, notre moteur de recherche combine les résultats web, vidéo<br /> et d’actualités sur une plateforme unifiée. Il est conçu pour faire gagner du temps aux utilisateurs<br /> et fournir les résultats les plus pertinents de manière efficace.<br /> Avec des fonctionnalités telles que des analyses alimentées par l’IA, des suggestions personnalisées<br /> et une interface propre et intuitive, la plateforme vise à transformer<br /> la façon dont les gens explorent, apprennent et découvrent des informations en ligne.",
+
+"about.faq.title": "Questions Fréquemment Posées",
+"about.faq.question1": "En quoi ce moteur de recherche est-il différent de Google ou Bing ?",
+"about.faq.answer1": "Notre moteur de recherche s'inspire des plateformes populaires mais va plus loin. Il regroupe les résultats du web, des vidéos et des actualités en un seul endroit, avec un mode IA pour des analyses approfondies. Contrairement aux moteurs traditionnels, il privilégie la simplicité, la personnalisation et une expérience centralisée.",
+
+"about.faq.question2": "Quelles fonctionnalités uniques rendent votre moteur de recherche spécial ?",
+"about.faq.answer2": "Notre plateforme dépasse la simple recherche textuelle. Vous pouvez utiliser la recherche vocale, explorer les résultats dans plusieurs langues, et passer en mode IA avec un assistant interactif qui explique, résume ou approfondit les sujets comme un guide personnel.",
+
+"about.faq.question3": "Mes recherches passées seront-elles enregistrées ?",
+"about.faq.answer3": "Les recherches récentes sont stockées localement sur votre appareil pour un accès rapide. Rien n'est envoyé à nos serveurs sans votre consentement.",
+
+"about.faq.question4": "Ce moteur est-il plus rapide que l'utilisation de plusieurs plateformes ?",
+"about.faq.answer4": "Oui ! Les résultats étant unifiés, vous passez moins de temps à naviguer entre les applications ou sites, ce qui rend l'expérience plus fluide et rapide.",
+
+"about.faq.question5": "Puis-je personnaliser mes résultats ?",
+"about.faq.answer5": "À l'avenir, les utilisateurs connectés pourront recevoir des résultats personnalisés selon leurs préférences et historique.",
+
+"about.faq.question6": "Fonctionne-t-il sur les appareils mobiles ?",
+"about.faq.answer6": "Absolument. La plateforme est entièrement responsive et optimisée pour smartphones, tablettes et ordinateurs.",
+
+"about.faq.question7": "Ma vie privée est-elle protégée ?",
+"about.faq.answer7": "Nous priorisons la confidentialité en limitant le suivi et en évitant la collecte inutile de données. Vos recherches restent privées.",
+
+"about.faq.question8": "Quelles fonctionnalités sont prévues pour l’avenir ?",
+"about.faq.answer8": "Nous prévoyons des sessions de recherche collaboratives, des panneaux de connaissances générés par IA, des résultats contextuels et une synchronisation intelligente entre plateformes. Notre objectif est de transformer la recherche en une expérience interactive et personnalisée.",
+
+"footer.title": "Propulsé par Love Kumar ❤️",
+"footer.link1": "Confidentialité",
+"footer.link2": "Retour",
+"footer.link3": "Aide",
+
+
+
+
+
+
+
+
+"historypage.subtitle": "Sélectionné",
+"historypage.btn1": "Supprimer",
+"historypage.btn2": "Annuler",
+"historypage.textfield": "Rechercher dans l’historique...",
+"historypage.empty.title": "Aucun historique trouvé.",
+"historypage.bottombtn": "Effacer tout l’historique",
+
+
+
+
+
+"searchTab.labelName1": "Mode IA",
+"searchTab.labelName2": "Tout",
+"searchTab.labelName3": "Images",
+"searchTab.labelName4": "Vidéos",
+"searchTab.labelName5": "Actualités",
+
+
+
+
+"ResultShowing.title1": "Affichage de <b>{{count}}</b> résultats pour <b>{{query}}</b>",
+"ResultShowing.subtitle1": "Aucun résultat trouvé.",
+"ResultShowing.btn1": "Charger plus",
+"ResultShowing.loading1": "Chargement...",
+
+"ResultShowing.title2": "Affichage de <b>{{count}}</b> images pour <b>{{query}}</b>",
+"ResultShowing.subtitle2": "Aucune image trouvée.",
+"ResultShowing.btn2": "Charger plus",
+"ResultShowing.loading2": "Chargement...",
+
+"ResultShowing.title3": "Affichage de <b>{{count}}</b> vidéos pour <b>{{query}}</b>",
+"ResultShowing.subtitle3": "Aucune vidéo trouvée.",
+"ResultShowing.btn3": "Charger plus",
+"ResultShowing.loading3": "Chargement...",
+
+"ResultShowing.title4": "Affichage de <b>{{count}}</b> actualités pour <b>{{query}}</b>",
+"ResultShowing.subtitle4": "Aucune actualité trouvée.",
+"ResultShowing.btn4": "Charger plus",
+"ResultShowing.loading4": "Chargement...",
+
+
+
+
+"AIMode.WelcomeNote": "Bienvenue ! Posez-moi n’importe quelle question.",
+"AIMode.Error.Message": "Désolé, une erreur s’est produite avec le service de chat.",
+"AIMode.chatinput.text": "Posez une question...",
+"AIMode.text": "Vous",
+"AIMode.Listtext1": "Ajouter une nouvelle discussion",
+"AIMode.Listtext2": "Téléverser une image",
+"AIMode.Listtext3": "Téléverser un PDF",
+"AIMode.Summary.title": "Résumé d’utilisation quotidienne",
+"AIMode.Summary.details1": "Messages utilisés :",
+"AIMode.Summary.details2": "Jetons utilisés :",
+"AIMode.reset.available": "Disponible maintenant !",
+"AIMode.reset.time": "Réinitialisation dans : {{time}}",
+"AIMode.common.loading": "Chargement...",
+
+
+
+
+
+"AISummary.overview.title": "◆ Aperçu de l'IA",
+"AISummary.Btn1": "Traduire",
+"AISummary.Pause.Btn": "Pause",
+"AISummary.Listen.Btn": "Écouter",
+"AISummary.Btn2": "Afficher plus",
+"AISummary.Btn3": "Approfondir avec AIMode",
+"AISummary.bottom.text": "Les réponses de l'IA peuvent contenir des erreurs"
+
+
+
+}

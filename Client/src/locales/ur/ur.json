@@ -1,0 +1,215 @@
+{
+  "tabs.newTab1": "نیا ٹیب",
+  "searchBar.placeholder": "تلاش کریں یا یو آر ایل درج کریں",
+  "searchInput.placeholder": "ویب تلاش کریں",
+
+
+  
+
+  "profileCard.name": "مہمان",
+  "profileCard.SignIn": "سائن ان نہیں کیا گیا",
+  "profileCard.SignOut": "سائن آؤٹ کریں",
+  "profileCard.manage": "اپنے اکاؤنٹ کا نظم کریں",
+  "profileCard.LoginWith1": "Google کے ساتھ جاری رکھیں",
+  "profileCard.LoginWith2": "GitHub کے ساتھ جاری رکھیں",
+
+
+
+
+
+  "greeting.text1": "صبح بخیر",
+  "greeting.text2": "دوپہر بخیر",
+  "greeting.text3": "شام بخیر",
+  "greeting.text4": "رات بخیر",
+
+
+
+
+
+  "status.listening": "سن رہے ہیں...",
+  "button.customize": "حسب ضرورت بنائیں",
+  "home.widgets": "ویجٹس",
+  "home.imgaes": "بے ترتیب تصاویر",
+  "home.TimeDate": "وقت",
+  "home.weather": "تاریخ/موسم",
+  "home.widgets.bg": "پس منظر",
+  "home.widgets.btn": "حسب ضرورت تصویر",
+
+
+
+
+  
+  "settings.title":"ترتیبات",
+  "settings.history": "تاریخ",
+  "settings.language": "زبانیں",
+  "settings.downloads": "ڈاؤن لوڈز",
+  "settings.appearance": "ظاہری شکل",
+  "settings.profile": "پروفائل",
+
+
+
+
+  "menu.newTab": "نیا ٹیب",
+  "menu.newWindow": "نئی ونڈو",
+  "menu.newIncognito": "نئی اِنکگنیٹو ونڈو",
+  "menu.history": "تاریخ",
+  "menu.downloads": "ڈاؤن لوڈز",
+  "menu.print": "پرنٹ...",
+  "menu.zoom": "زوم",
+  "menu.dayNight": "دن/رات موڈ",
+  "menu.profile": "پروفائل سیکشن",
+  "menu.language": "زبانیں",
+  "menu.upcoming2": "آنے والا فیچر 1...",
+  "menu.about": "ہمارے بارے میں",
+  "menu.settings": "ترتیبات",
+  "menu.close": "سرچ انجن بند کریں",
+
+
+
+
+
+
+
+"about.hero.title": "ہمارے سرچ انجن کے بارے میں",
+"about.hero.subtitle": "ویب، یوٹیوب اور خبروں میں تیز، ذاتی نوعیت کے اور قابلِ اعتماد نتائج",
+"about.hero.btn": "مزید جانیں",
+
+"about.features.title": "خصوصیات",
+"about.features.timeline1": "متحدہ نتائج",
+"about.features.headline1": "کئی ذرائع سے تلاش",
+"about.features.title1": "ویب، ویڈیوز اور خبروں سے نتائج ایک ہی جگہ پر حاصل کریں۔",
+
+"about.features.timeline2": "سمارٹ تجاویز",
+"about.features.headline2": "حالیہ تلاشیں",
+"about.features.title2": "موثر تلاش کے لیے اپنی پچھلی تلاشوں تک فوری رسائی۔",
+
+"about.features.timeline3": "ذاتی نوعیت",
+"about.features.headline3": "ذاتی نوعیت کے نتائج",
+"about.features.title3": "مستقبل کی خصوصیت: لاگ ان صارفین کے لیے حسبِ ضرورت تلاش۔",
+
+"about.features.timeline4": "بجلی کی رفتار",
+"about.features.headline4": "تیز اور صاف یوزر انٹرفیس",
+"about.features.title4": "ایک سادہ، ذمہ دار اور استعمال میں آسان انٹرفیس۔",
+
+"about.founder.title": "بانی کے بارے میں",
+"about.founder.para1": "ہمارے بانی <strong>مسٹر لَو کمار </strong> ایک <strong>بصیرت رکھنے والے </strong> شخص ہیں جو سادگی، <br/> رفتار اور جدت پر یقین رکھتے ہیں۔ ٹیکنالوجی کی گہری سمجھ اور پلیٹ فارم بنانے کے جذبے کے ساتھ، <br/> انہوں نے ایک ایسا ٹول تصور کیا جو تلاش کو مزید ذہین، تیز اور ذاتی نوعیت کا بناتا ہے۔<br /> تخلیقی صلاحیت اور لگن سے رہنمائی حاصل کرتے ہوئے، بانی کا مشن ہمیشہ پیچیدہ معلومات<br /> اور ہر فرد کے لیے آسان رسائی کے درمیان خلا کو پُر کرنا رہا ہے۔",
+"about.founder.para2": "اس وژن کی بنیاد پر، ہمارا سرچ انجن ویب، ویڈیو<br /> اور خبروں کے نتائج کو ایک متحد پلیٹ فارم میں یکجا کرتا ہے۔ یہ صارفین کا وقت بچانے<br /> اور سب سے متعلقہ نتائج مؤثر طریقے سے فراہم کرنے کے لیے تیار کیا گیا ہے۔<br /> AI سے چلنے والی بصیرت، ذاتی نوعیت کی تجاویز <br /> اور ایک صاف، سادہ انٹرفیس جیسی خصوصیات کے ساتھ، یہ پلیٹ فارم اس طریقے کو بدلنے کا ارادہ رکھتا ہے <br /> جس سے لوگ آن لائن معلومات کو تلاش کرتے، سیکھتے اور دریافت کرتے ہیں۔",
+
+"about.faq.title": "اکثر پوچھے جانے والے سوالات",
+"about.faq.question1": "یہ سرچ انجن گوگل یا بنگ سے کیسے مختلف ہے؟",
+"about.faq.answer1": "ہمارا سرچ انجن مشہور پلیٹ فارمز سے متاثر ہے لیکن اس سے آگے بڑھتا ہے۔ یہ ویب، ویڈیو اور خبروں کے نتائج کو ایک جگہ پر اکٹھا کرتا ہے، اور AI موڈ کے ذریعے گہرائی سے تجزیہ فراہم کرتا ہے۔ روایتی سرچ انجنز کے برعکس، یہ سادگی، ذاتی نوعیت اور ایک صفحے پر تمام تلاش کی ضروریات پر توجہ دیتا ہے۔",
+
+"about.faq.question2": "کون سی منفرد خصوصیات آپ کے سرچ انجن کو نمایاں بناتی ہیں؟",
+"about.faq.answer2": "ہمارا پلیٹ فارم صرف ٹیکسٹ تلاش سے آگے جاتا ہے۔ آپ مائیک کے ذریعے وائس ٹو ٹیکسٹ استعمال کر سکتے ہیں، کئی زبانوں میں نتائج دیکھ سکتے ہیں، اور AI موڈ میں انٹرایکٹو چیٹ اسسٹنٹ کے ساتھ گہرائی میں جا سکتے ہیں جو ذاتی رہنما کی طرح وضاحت کرتا ہے، خلاصہ پیش کرتا ہے، یا موضوعات میں مزید کھوج لگاتا ہے۔",
+
+"about.faq.question3": "کیا میری پچھلی تلاشیں محفوظ کی جائیں گی؟",
+"about.faq.answer3": "حالیہ تلاشیں آپ کے آلے پر مقامی طور پر محفوظ کی جاتی ہیں تاکہ آپ جلدی سے دوبارہ ان تک رسائی حاصل کر سکیں۔ آپ کی اجازت کے بغیر کچھ بھی ہمارے سرورز پر اپلوڈ نہیں کیا جاتا۔",
+
+"about.faq.question4": "کیا یہ سرچ انجن مختلف پلیٹ فارمز کے استعمال سے زیادہ تیز ہے؟",
+"about.faq.answer4": "جی ہاں! چونکہ نتائج متحد ہوتے ہیں، آپ کو مختلف ایپس یا ویب سائٹس پر جانے میں کم وقت لگتا ہے، جس سے تجربہ تیز اور ہموار محسوس ہوتا ہے۔",
+
+"about.faq.question5": "کیا میں اپنے نتائج کو ذاتی بنا سکتا ہوں؟",
+"about.faq.answer5": "مستقبل میں، لاگ ان صارفین اپنی ترجیحات اور تاریخ کے مطابق ذاتی نوعیت کے نتائج حاصل کر سکیں گے۔",
+
+"about.faq.question6": "کیا یہ موبائل ڈیوائسز پر کام کرتا ہے؟",
+"about.faq.answer6": "بالکل۔ یہ پلیٹ فارم مکمل طور پر ریسپانسیو ہے اور اسمارٹ فونز، ٹیبلٹس اور ڈیسک ٹاپس کے لیے موزوں ہے۔",
+
+"about.faq.question7": "کیا میری پرائیویسی محفوظ ہے؟",
+"about.faq.answer7": "ہم پرائیویسی کو ترجیح دیتے ہیں، غیر ضروری ڈیٹا اکٹھا کرنے سے گریز کرتے ہیں، اور کم سے کم ٹریکنگ کرتے ہیں۔ آپ کی تلاشیں صرف آپ کی ہیں۔",
+
+"about.faq.question8": "مستقبل میں کون سی خصوصیات شامل کی جائیں گی؟",
+"about.faq.answer8": "مستقبل میں ہم مشترکہ تلاش سیشنز، AI سے تیار کردہ نالج پینلز، سیاق و سباق سے آگاہ نتائج، اور بہتر کراس پلیٹ فارم ہم آہنگی جیسی خصوصیات متعارف کرانے کا منصوبہ رکھتے ہیں۔ ہمارا مقصد تلاش کو صرف ایک ٹول سے ایک ذاتی، انٹرایکٹو تجربے میں تبدیل کرنا ہے۔",
+
+"footer.title": "محبت کمار کی جانب سے پیش کردہ ❤️",
+"footer.link1": "رازداری",
+"footer.link2": "رائے",
+"footer.link3": "مدد",
+
+
+
+
+
+
+
+"historypage.subtitle": "منتخب شدہ",
+"historypage.btn1": "حذف کریں",
+"historypage.btn2": "منسوخ کریں",
+"historypage.textfield": "تاریخ تلاش کریں...",
+"historypage.empty.title": "کوئی تاریخ نہیں ملی۔",
+"historypage.bottombtn": "تمام تاریخ صاف کریں",
+
+
+
+
+
+
+"searchTab.labelName1": "اے آئی موڈ",
+"searchTab.labelName2": "تمام",
+"searchTab.labelName3": "تصاویر",
+"searchTab.labelName4": "ویڈیوز",
+"searchTab.labelName5": "خبریں",
+
+
+
+
+
+"ResultShowing.title1": "<b>{{query}}</b> کے لیے <b>{{count}}</b> نتائج دکھا رہے ہیں",
+"ResultShowing.subtitle1": "کوئی نتیجہ نہیں ملا۔",
+"ResultShowing.btn1": "مزید لوڈ کریں",
+"ResultShowing.loading1": "لوڈ ہو رہا ہے...",
+
+"ResultShowing.title2": "<b>{{query}}</b> کے لیے <b>{{count}}</b> تصاویر دکھا رہے ہیں",
+"ResultShowing.subtitle2": "کوئی تصویر نہیں ملی۔",
+"ResultShowing.btn2": "مزید لوڈ کریں",
+"ResultShowing.loading2": "لوڈ ہو رہا ہے...",
+
+"ResultShowing.title3": "<b>{{query}}</b> کے لیے <b>{{count}}</b> ویڈیوز دکھا رہے ہیں",
+"ResultShowing.subtitle3": "کوئی ویڈیو نہیں ملی۔",
+"ResultShowing.btn3": "مزید لوڈ کریں",
+"ResultShowing.loading3": "لوڈ ہو رہا ہے...",
+
+"ResultShowing.title4": "<b>{{query}}</b> کے لیے <b>{{count}}</b> خبریں دکھا رہے ہیں",
+"ResultShowing.subtitle4": "کوئی خبر نہیں ملی۔",
+"ResultShowing.btn4": "مزید لوڈ کریں",
+"ResultShowing.loading4": "لوڈ ہو رہا ہے...",
+
+
+
+
+"AIMode.WelcomeNote": "خوش آمدید! کچھ بھی پوچھیں۔",
+"AIMode.Error.Message": "معذرت، چیٹ سروس میں کچھ خرابی ہو گئی ہے۔",
+"AIMode.chatinput.text": "کچھ بھی پوچھیں...",
+"AIMode.text": "آپ",
+"AIMode.Listtext1": "نئی چیٹ شامل کریں",
+"AIMode.Listtext2": "تصویر اپلوڈ کریں",
+"AIMode.Listtext3": "PDF اپلوڈ کریں",
+"AIMode.Summary.title": "روزانہ استعمال کا خلاصہ",
+"AIMode.Summary.details1": "استعمال شدہ پیغامات:",
+"AIMode.Summary.details2": "استعمال شدہ ٹوکن:",
+"AIMode.reset.available": "اب دستیاب ہے!",
+"AIMode.reset.time": "ری سیٹ ہوگا: {{time}}",
+"AIMode.common.loading": "لوڈ ہو رہا ہے...",
+
+
+
+
+"AISummary.overview.title": "◆ اے آئی کا جائزہ",
+"AISummary.Btn1": "ترجمہ کریں",
+"AISummary.Pause.Btn": "توقف کریں",
+"AISummary.Listen.Btn": "سنیں",
+"AISummary.Btn2": "مزید دکھائیں",
+"AISummary.Btn3": "AIMode میں مزید گہرائی میں جائیں",
+"AISummary.bottom.text": "اے آئی کے جوابات میں غلطیاں ہو سکتی ہیں"
+
+
+
+
+
+
+
+
+
+
+
+
+}

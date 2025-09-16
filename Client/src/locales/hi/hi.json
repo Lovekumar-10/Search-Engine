@@ -1,0 +1,205 @@
+{
+  "tabs.newTab1": "नया टैब",
+  "searchBar.placeholder": "खोजें या URL दर्ज करें",
+  "searchInput.placeholder": "वेब खोजें",
+
+
+  
+
+  "profileCard.name": "अतिथि",
+  "profileCard.SignIn": "साइन इन नहीं किया गया",
+  "profileCard.SignOut": "साइन आउट करें",
+  "profileCard.manage": "अपने खाते का प्रबंधन करें",
+  "profileCard.LoginWith1": "Google के साथ जारी रखें",
+  "profileCard.LoginWith2": "GitHub के साथ जारी रखें",
+
+
+
+
+
+  "greeting.text1": "सुप्रभात",
+  "greeting.text2": "नमस्कार",
+  "greeting.text3": "शुभ संध्या",
+  "greeting.text4": "शुभ रात्रि",
+
+
+
+
+
+
+  "status.listening": "सुन रही हूँ...",
+  "button.customize": "अनुकूलित करें",
+  "home.widgets": "विजेट्स",
+  "home.imgaes": "यादृच्छिक चित्र",
+  "home.TimeDate": "समय दिखाएँ",
+  "home.weather": "तारीख/मौसम ",
+  "home.widgets.bg": "पृष्ठभूमि",
+  "home.widgets.btn": "कस्टम छवि",
+
+
+
+
+  "settings.title":"सेटिंग्स",
+  "settings.history": "इतिहास",
+  "settings.language": "भाषाएँ",
+  "settings.downloads": "डाउनलोड",
+  "settings.appearance": "रूप",
+  "settings.profile": "प्रोफ़ाइल",
+
+
+
+
+
+  "menu.newTab": "नया टैब",
+  "menu.newWindow": "नई विंडो",
+  "menu.newIncognito": "नई गुप्त विंडो",
+  "menu.history": "इतिहास",
+  "menu.downloads": "डाउनलोड",
+  "menu.print": "प्रिंट...",
+  "menu.zoom": "ज़ूम",
+  "menu.dayNight": "दिन/रात मोड",
+  "menu.profile": "प्रोफ़ाइल अनुभाग",
+  "menu.language": "भाषाएँ", 
+  "menu.upcoming2": "आगामी सुविधा 1...",
+  "menu.about": "हमारे बारे में",
+  "menu.settings": "सेटिंग्स",
+  "menu.close": "सर्च इंजन बंद करें",
+
+
+
+
+
+
+"about.hero.title": "हमारे सर्च इंजन के बारे में",
+"about.hero.subtitle": "वेब, यूट्यूब और समाचार में तेज़, व्यक्तिगत और विश्वसनीय खोज परिणाम",
+"about.hero.btn": "और जानें",
+
+"about.features.title": "विशेषताएँ",
+"about.features.timeline1": "एकीकृत परिणाम",
+"about.features.headline1": "मल्टी-सोर्स खोज",
+"about.features.title1": "वेब, वीडियो और समाचार से परिणाम एक ही स्थान पर प्राप्त करें।",
+
+"about.features.timeline2": "स्मार्ट सुझाव",
+"about.features.headline2": "हाल की खोजें",
+"about.features.title2": "कुशलता के लिए आपकी पिछली खोजों तक त्वरित पहुँच।",
+
+"about.features.timeline3": "व्यक्तिगत",
+"about.features.headline3": "व्यक्तिगत परिणाम",
+"about.features.title3": "भविष्य की सुविधा: लॉग-इन उपयोगकर्ताओं के लिए अनुकूलित खोज।",
+
+"about.features.timeline4": "बिजली जैसी तेज़",
+"about.features.headline4": "तेज़ और साफ़ UI",
+"about.features.title4": "एक सरल, उत्तरदायी और उपयोग में आसान इंटरफ़ेस।",
+
+"about.founder.title": "संस्थापक के बारे में",
+"about.founder.para1": "हमारे संस्थापक <strong>श्री लव कुमार</strong> एक <strong>दूरदर्शी</strong> व्यक्ति हैं जो सरलता,<br /> गति और नवाचार में विश्वास रखते हैं। तकनीक की गहरी समझ और<br /> प्लेटफ़ॉर्म बनाने के जुनून के साथ, उन्होंने एक ऐसा टूल कल्पित किया जो खोज को<br /> और अधिक स्मार्ट, तेज़ और व्यक्तिगत बनाता है। रचनात्मकता और समर्पण से प्रेरित,<br /> संस्थापक का मिशन हमेशा जटिल जानकारी और आसान पहुँच के बीच की दूरी को<br /> कम करना रहा है।",
+"about.founder.para2": "इस दृष्टिकोण पर आधारित, हमारा सर्च इंजन वेब, वीडियो और समाचार परिणामों <br />  को एक एकीकृत प्लेटफ़ॉर्म में जोड़ता है। यह उपयोगकर्ताओं का समय बचाने<br /> और सबसे प्रासंगिक परिणाम कुशलता से प्रदान करने के लिए डिज़ाइन किया गया है। <br /> AI-संचालित इनसाइट्स, व्यक्तिगत सुझावों और एक साफ-सुथरे, सहज इंटरफ़ेस <br /> जैसी सुविधाओं के साथ, यह प्लेटफ़ॉर्म उस तरीके को बदलने का लक्ष्य रखता है<br /> जिससे लोग ऑनलाइन जानकारी को खोजते, सीखते और समझते हैं।",
+
+"about.faq.title": "अक्सर पूछे जाने वाले प्रश्न",
+"about.faq.question1": "यह सर्च इंजन Google या Bing से कैसे अलग है?",
+"about.faq.answer1": "हमारा सर्च इंजन लोकप्रिय प्लेटफार्मों से प्रेरित है लेकिन उससे आगे जाता है। यह वेब, वीडियो और समाचार के परिणामों को एक ही स्थान पर लाता है, और गहराई से जानकारी के लिए एक AI मोड भी प्रदान करता है। पारंपरिक सर्च इंजन की तुलना में, यह सरलता, वैयक्तिकरण और सभी खोज आवश्यकताओं को एक पेज पर रखने पर केंद्रित है।",
+
+"about.faq.question2": "आपके सर्च इंजन को खास बनाने वाली अनोखी विशेषताएं क्या हैं?",
+"about.faq.answer2": "हमारा प्लेटफॉर्म केवल टेक्स्ट खोज से आगे बढ़ता है। आप वॉयस-टू-टेक्स्ट के लिए माइक का उपयोग कर सकते हैं, कई भाषाओं में परिणाम देख सकते हैं, और AI मोड में एक इंटरैक्टिव चैट असिस्टेंट के साथ विषयों को समझ सकते हैं, सारांश प्राप्त कर सकते हैं या गहराई से विश्लेषण कर सकते हैं—जैसे एक व्यक्तिगत मार्गदर्शक।",
+
+"about.faq.question3": "क्या मेरी पिछली खोजें सहेजी जाएंगी?",
+"about.faq.answer3": "हाल की खोजें आपके डिवाइस पर स्थानीय रूप से सहेजी जाती हैं ताकि आप उन्हें जल्दी से फिर से देख सकें। आपकी अनुमति के बिना कुछ भी हमारे सर्वर पर अपलोड नहीं किया जाता।",
+
+"about.faq.question4": "क्या यह सर्च इंजन कई प्लेटफार्मों की तुलना में तेज़ है?",
+"about.faq.answer4": "हाँ! क्योंकि परिणाम एकीकृत होते हैं, आपको विभिन्न ऐप्स या वेबसाइटों पर नेविगेट करने में कम समय लगता है, जिससे अनुभव तेज़ और सहज महसूस होता है।",
+
+"about.faq.question5": "क्या मैं अपने परिणामों को वैयक्तिकृत कर सकता हूँ?",
+"about.faq.answer5": "भविष्य में, लॉग-इन उपयोगकर्ता अपनी प्राथमिकताओं और इतिहास के अनुसार वैयक्तिकृत परिणाम प्राप्त कर सकेंगे।",
+
+"about.faq.question6": "क्या यह मोबाइल डिवाइस पर काम करता है?",
+"about.faq.answer6": "बिलकुल। यह प्लेटफॉर्म पूरी तरह से उत्तरदायी है और स्मार्टफोन, टैबलेट और डेस्कटॉप के लिए अनुकूलित है।",
+
+"about.faq.question7": "क्या मेरी गोपनीयता सुरक्षित है?",
+"about.faq.answer7": "हम गोपनीयता को प्राथमिकता देते हैं, ट्रैकिंग को न्यूनतम रखते हैं और अनावश्यक डेटा संग्रह से बचते हैं। आपकी खोजें केवल आपकी हैं।",
+
+"about.faq.question8": "भविष्य में कौन-कौन सी विशेषताएं जोड़ी जाएंगी?",
+"about.faq.answer8": "हम भविष्य में सहयोगी खोज सत्र, AI-जनित ज्ञान पैनल, संदर्भ-आधारित परिणाम और स्मार्ट क्रॉस-प्लेटफॉर्म सिंकिंग जैसी विशेषताओं की योजना बना रहे हैं। हमारा लक्ष्य खोज को एक उपकरण से एक व्यक्तिगत, इंटरैक्टिव अनुभव में बदलना है।",
+
+"footer.title": "लव कुमार द्वारा संचालित ❤️",
+"footer.link1": "गोपनीयता",
+"footer.link2": "प्रतिक्रिया",
+"footer.link3": "सहायता",
+
+
+
+
+"historypage.subtitle": "चयनित",
+"historypage.btn1": "हटाएं",
+"historypage.btn2": "रद्द करें",
+"historypage.textfield": "इतिहास खोजें...",
+"historypage.empty.title": "कोई इतिहास नहीं मिला।",
+"historypage.bottombtn": "सारा इतिहास साफ़ करें",
+
+
+
+
+"searchTab.labelName1": "एआई मोड",
+"searchTab.labelName2": "सभी",
+"searchTab.labelName3": "फोटो",
+"searchTab.labelName4": "वीडियो",
+"searchTab.labelName5": "समाचार",
+
+
+
+
+"ResultShowing.title1": "<b>{{query}}</b> के लिए <b>{{count}}</b> परिणाम दिखा रहे हैं",
+"ResultShowing.subtitle1": "कोई परिणाम नहीं मिला।",
+"ResultShowing.btn1": "और लोड करें",
+"ResultShowing.loading1": "लोड हो रहा है...",
+
+"ResultShowing.title2": "<b>{{query}}</b> के लिए <b>{{count}}</b> फोटो दिखा रहे हैं",
+"ResultShowing.subtitle2": "कोई फोटो नहीं मिली।",
+"ResultShowing.btn2": "और लोड करें",
+"ResultShowing.loading2": "लोड हो रहा है...",
+
+"ResultShowing.title3": "<b>{{query}}</b> के लिए <b>{{count}}</b> वीडियो दिखा रहे हैं",
+"ResultShowing.subtitle3": "कोई वीडियो नहीं मिली।",
+"ResultShowing.btn3": "और लोड करें",
+"ResultShowing.loading3": "लोड हो रहा है...",
+
+"ResultShowing.title4": "<b>{{query}}</b> के लिए <b>{{count}}</b> समाचार दिखा रहे हैं",
+"ResultShowing.subtitle4": "कोई समाचार नहीं मिला।",
+"ResultShowing.btn4": "और लोड करें",
+"ResultShowing.loading4": "लोड हो रहा है...",
+
+
+
+
+"AIMode.WelcomeNote": "स्वागत है! मुझसे कुछ भी पूछें।",
+"AIMode.Error.Message": "माफ़ कीजिए, चैट सेवा में कुछ गड़बड़ हो गई।",
+"AIMode.chatinput.text": "कुछ भी पूछें...",
+"AIMode.text": "आप",
+"AIMode.Listtext1": "नई चैट जोड़ें",
+"AIMode.Listtext2": "फोटो अपलोड करें",
+"AIMode.Listtext3": "PDF अपलोड करें",
+"AIMode.Summary.title": "दैनिक उपयोग सारांश",
+"AIMode.Summary.details1": "उपयोग किए गए संदेश:",
+"AIMode.Summary.details2": "उपयोग किए गए टोकन:",
+"AIMode.reset.available": "अब उपलब्ध!",
+"AIMode.reset.time": "दुबारा शुरू  होगा: {{time}}",
+"AIMode.common.loading": "लोड हो रहा है...",
+
+
+
+"AISummary.overview.title": "◆AI अवलोकन",
+"AISummary.Btn1": "अनुवाद करें",
+"AISummary.Pause.Btn": "रोकें",
+"AISummary.Listen.Btn": "सुनें",
+"AISummary.Btn2": "और दिखाएं",
+"AISummary.Btn3": "गहराई से जाएं",
+"AISummary.bottom.text": "AI उत्तरों में गलतियाँ हो सकती हैं"
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,235 @@
+{
+
+  "tabs.newTab1": "New Tab",
+  "searchBar.placeholder": "Search or enter URL",
+  "searchInput.placeholder": "Search the web",
+
+
+
+
+
+  "profileCard.name": "Guest",
+  "profileCard.SignIn": "Not signed in",
+  "profileCard.SignOut": "Sign Out",
+  "profileCard.manage": "Manage your Account",
+  "profileCard.LoginWith1": "Continue with Google",
+  "profileCard.LoginWith2": "Continue with GitHub",
+
+
+
+
+
+  "greeting.text1": "Good Morning",
+  "greeting.text2": "Good Afternoon",
+  "greeting.text3": "Good Evening",
+  "greeting.text4": "Good Night",
+
+
+
+ 
+
+  "status.listening": "Listening...",
+  "button.customize":" Customize",
+  "home.widgets":"Widgets",
+  "home.imgaes":"Random Images",
+  "home.TimeDate":"Time",
+  "home.weather":"Date/Weather",
+  "home.widgets.bg":"Background",
+  "home.widgets.btn":"Custom Image ",
+
+
+
+  "settings.title":"Settings",
+  "settings.history":"History",
+  "settings.language":"Languages",
+  "settings.downloads":"Downloads",
+  "settings.appearance":"Appearance",
+  "settings.profile":"Profile",
+
+  
+
+
+
+
+
+  "menu.newTab": "New tab",
+  "menu.newWindow": "New window",
+  "menu.newIncognito": "New incognito window",
+  "menu.history": "History",
+  "menu.downloads": "Downloads",
+  "menu.print": "Print...",
+  "menu.zoom": "Zoom",
+  "menu.dayNight": "Day/Night Mode",
+  "menu.profile": "Profile section",
+  "menu.language": "Languages",   
+  "menu.upcoming2": "Upcoming feature 1...",
+  "menu.about": "About us",
+  "menu.settings": "Settings",
+  "menu.close": "Close search engine",
+
+
+
+
+
+
+
+
+  
+  "about.hero.title":" About Our Search Engine",
+  "about.hero.subtitle":" Fast, personalized, and reliable search results across Web, YouTube, and News",
+  "about.hero.btn":"Learn More",
+
+  "about.features.title":"Features",
+  "about.features.timeline1":"Unified Results",
+  "about.features.headline1":"Multi-source Search",
+  "about.features.title1":" Get results from Web, Videos, and News in one place. ",
+
+  "about.features.timeline2":"Smart Suggestions",
+  "about.features.headline2":"Recent Searches ",
+  "about.features.title2":" Quick access to your last searches for efficiency. ",
+
+  "about.features.timeline3":"Personalized",
+  "about.features.headline3":"Personalized Results ",
+  "about.features.title3":" Future feature: tailored searches for logged-in users. ",
+
+  "about.features.timeline4":"Lightning Fast",
+  "about.features.headline4":"Fast & Clean UI  ",
+  "about.features.title4":"  A simple, responsive, and easy-to-use interface.",
+
+  "about.founder.title":" About Founder ",
+  "about.founder.para1":"Our founder  <strong>Mr. Love kumar </strong> is a   <strong>visionary</strong> who believes in simplicity, <br /> peed, and innovation With a deep understanding of technology and a <br /> passion for creating  platforms, they envisioned a tool that makes searching <br /> smarter, faster, and more   personalized. Guided by creativity and dedication, <br /> the founder’s mission has  always been to bridge the gap between complex  <br /> information and easy  access for everyone. ",
+  "about.founder.para2":"Built on this vision, our search engine combines web, video,  <br /> and news results in one unified platform. It is designed to  <br /> save users time and provide the most relevant results efficiently. <br /> With features like AI-powered insights, personalized suggestions,  <br /> and a clean, intuitive interface, the platform aims to transform <br /> the way people explore, learn, and discover information online. <br /> ",
+
+  "about.faq.title":"  Frequently Asked Questions ",
+  "about.faq.question1": "How is this search engine different from Google or Bing? ",
+  "about.faq.answer1": "Our search engine is inspired by popular platforms but goes further. It brings web, video, and news results together in one place, with an added AI mode for deeper insights. Unlike traditional search engines, it focuses on simplicity, personalization, and keeping all your search needs on a single page. ",
+
+  "about.faq.question2": "What unique features make ur search engine stand out?",
+  "about.faq.answer2": "Our platform goes beyond simple text search. You can use voice-to-text with a speaking mic for hands-free searching, explore results in multiple languages, and even switch to AI Mode with an interactive chat assistant that explains, summarizes, or dives deeper into topics just like a personal guide.",
+
+  "about.faq.question3": "Will my past searches be saved?",
+  "about.faq.answer3":  "Recent searches are stored locally on your device to help you quickly revisit queries. Nothing is uploaded to our servers without your consent.",
+
+  "about.faq.question4": "Is this search engine faster than using multiple platforms?",
+  "about.faq.answer4": "Yes! Because results are unified, you spend less time navigating different apps or websites, which makes the experience feel faster and smoother.",
+
+  "about.faq.question5": "Can I personalize my results?",
+  "about.faq.answer5": "In the future, logged-in users will be able to receive personalized results tailored to their preferences and history.",
+
+  "about.faq.question6": "Does it work on mobile devices?",
+  "about.faq.answer6": "Absolutely. The platform is fully responsive and optimized for smartphones, tablets, and desktops.",
+
+  "about.faq.question7": "Is my privacy protected?",
+  "about.faq.answer7": "We prioritize privacy by minimizing tracking and avoiding unnecessary data collection. Your searches are private to you.",
+
+  "about.faq.question8": "What future features are planned?",
+  "about.faq.answer8": "In the future, we’re planning features like collaborative search sessions, AI-generated knowledge panels, context-aware results, and smarter cross-platform syncing. Our goal is to move search from being just a tool into a truly personalized, interactive experience.",
+ 
+  "footer.title":" Powered by Love Kumar ❤️ ",
+  "footer.link1":"Privacy",
+  "footer.link2":"Feedback",
+  "footer.link3":"Help",
+
+
+
+
+
+
+
+
+  "historypage.subtitle":"Selected",
+  "historypage.btn1":"Delete",
+  "historypage.btn2":"Cancel",
+  "historypage.textfield":"Search history...",
+  "historypage.empty.title":"No history found. ",
+  "historypage.bottombtn":"Clear All History",
+
+
+
+
+
+  "searchTab.labelName1":"AIMode",
+  "searchTab.labelName2":"All",
+  "searchTab.labelName3":"Images",
+  "searchTab.labelName4":"Videos",
+  "searchTab.labelName5":"News",
+
+
+
+
+
+
+
+  "ResultShowing.title1":"Showing <b>{{count}}</b> results for <b>{{query}}</b>",
+  "ResultShowing.subtitle1":"No results found.",
+  "ResultShowing.btn1":"Load More",
+  "ResultShowing.loading1":"Loading...",
+
+
+  "ResultShowing.title2":"Showing <b>{{count}}</b> images for <b>{{query}}</b>",
+  "ResultShowing.subtitle2":"No images found.",
+  "ResultShowing.btn2":"Load More",
+  "ResultShowing.loading2":"Loading...",
+
+
+  "ResultShowing.title3":"Showing <b>{{count}}</b> Videos for <b>{{query}}</b>",
+  "ResultShowing.subtitle3":"No Videos found.",
+  "ResultShowing.btn3":"Load More",
+  "ResultShowing.loading3":"Loading...",
+
+
+  "ResultShowing.title4":"Showing <b>{{count}}</b> News for <b>{{query}}</b>",
+  "ResultShowing.subtitle4":"No News found.",
+  "ResultShowing.btn4":"Load More",
+  "ResultShowing.loading4":"Loading...",
+
+
+
+
+
+
+  "AIMode.WelcomeNote":"Welcome! Ask me anything.",
+  "AIMode.Error.Message":"Sorry, something went wrong with the chat service.",
+  "AIMode.chatinput.text":"Ask anything...",
+  "AIMode.text":"You",
+  "AIMode.Listtext1":"Add New Chat",
+  "AIMode.Listtext2":"Upload Image",
+  "AIMode.Listtext3":"Upload PDF",
+  "AIMode.Summary.title":"Daily Usage Summary",
+  "AIMode.Summary.details1":"Messages used:",
+  "AIMode.Summary.details2":"Tokens used:",
+  "AIMode.reset.available":"Available now!",
+  "AIMode.reset.time":"Resets in: {{time}}",
+  "AIMode.common.loading":"Loading...",
+
+
+
+
+
+
+
+
+
+
+
+  "AISummary.overview.title":"◆ AI Overview",
+  "AISummary.Btn1":"Translate",
+  "AISummary.Pause.Btn":"Pause",
+  "AISummary.Listen.Btn":"Listen",
+  "AISummary.Btn2":"Show More",
+  "AISummary.Btn3":"Dive deeper in AIMode",
+  "AISummary.bottom.text":"AI responses may include mistakes"
+
+
+
+
+
+
+
+
+
+  
+
+}  
+
+
